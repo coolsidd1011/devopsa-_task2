@@ -6,7 +6,7 @@ receiver_email = "coolsidd1997@gmail.com"  # Enter receiver address
 password ="Jaishreeram@1011"
 message = """\
 Subject: Hi there
-This message is sent from Python."""
+This message is sent from deployments side...something wrong...come and check pls."""
 
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
