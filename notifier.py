@@ -3,7 +3,7 @@ port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "siddcool1011@gmail.com"  # Enter your address
 receiver_email = "coolsidd1997@gmail.com"  # Enter receiver address
-password ="Jaishreeram@1011"
+password =""
 message = """\
 Subject: Hi there
 This message is sent from deployments side...something wrong...come and check pls."""
